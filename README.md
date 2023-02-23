@@ -1,5 +1,6 @@
 # Algoritma_dan_StrukturData
 
-Nama : Julhan Abdul Malik
-NIM : 20220040126
-Kelas : TI22A
+Nama    : Julhan Abdul Malik <br>
+NIM     : 20220040126 <br>
+Kelas   : TI22A <br>
+Prodi   : Teknik Informatika <br>
